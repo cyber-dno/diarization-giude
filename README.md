@@ -1,4 +1,4 @@
-# diarization-giude
+# diarization-guide
 
 Diarization.py - Код для запуска диаризации файла
 
