@@ -1,6 +1,4 @@
 import torch
-from pyannote.core import Segment, Annotation
-from pyannote.metrics.diarization import DiarizationErrorRate
 
 """
 Код для запуска pyannote-audio.
